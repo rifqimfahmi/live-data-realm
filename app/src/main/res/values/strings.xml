@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Live data example</string>
+    <string name="dialog_loading">Loading...</string>
+</resources>
