@@ -7,7 +7,7 @@ For know the known drawbacks:
 1. **You can't use stetho for debugging realm**. because, to keep data updated, realm instance must not be closed
 ## License
 
-Apache-2.0 © [Rifqi Mulya Fahmi](https://renotekno.com/)
+Apache-2.0 © [Rifqi Mulya Fahmi](https://www.linkedin.com/in/rifqi-mulya-fahmi-66b02a10b/)
 
 ```
 Copyright 2018 Rifqi Mulya Fahmi
